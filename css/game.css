@@ -75,8 +75,6 @@ header{
 .reveal-card{
     transform: rotateY(180deg);
 }
-.card:hover{
-}
 
 .disabled-card{
     filter: saturate(0);
